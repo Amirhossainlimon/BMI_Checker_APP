@@ -13,7 +13,8 @@ Motivational Feedback: Provides a short health tip based on the score (e.g., "No
 Reset Functionality: Quick-reset button in the app bar for new calculations.
 
 📸 Screenshot
-<p align="center"> <img src="your-screenshot-link-here.png" width="300" alt="BMI Checker App Screenshot"> </p>
+<img width="514" height="777" alt="image" src="https://github.com/user-attachments/assets/e30103b9-1274-44a8-8691-7e332d5d75ee" />
+
 
 🛠️ Built With
 Framework: [e.g., Java/ Android Studio]
