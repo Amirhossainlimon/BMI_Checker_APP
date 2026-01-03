@@ -13,7 +13,9 @@ Motivational Feedback: Provides a short health tip based on the score (e.g., "No
 Reset Functionality: Quick-reset button in the app bar for new calculations.
 
 📸 Screenshot
+<img width="687" height="820" alt="image" src="https://github.com/user-attachments/assets/95289b94-e028-4042-89fa-b813ff1f24e0" />
 <img width="514" height="777" alt="image" src="https://github.com/user-attachments/assets/e30103b9-1274-44a8-8691-7e332d5d75ee" />
+
 
 
 🛠️ Built With
